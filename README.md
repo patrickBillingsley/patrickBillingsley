@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @patrickBillingsley
+- 👀 I’m interested in music, books, and coding
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on anything Javascript, HTML/CSS, React, and React Native
+- 📫 How to reach me: prbillingsley89@gmail.com
